@@ -7,7 +7,7 @@
   🎶 K-pop enjoyer!<br/>
 </div>
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OHNIMUS-Leopold&theme=radical&hide_border=false&include_all_commits=true&count_private=true" style="float: right;">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=OHNIMUS-Leopold&theme=radical&hide_border=false&include_all_commits=true&count_private=true" style="float: right;">
 </p>
 
 
