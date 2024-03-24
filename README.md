@@ -1,12 +1,15 @@
 # 👋 Hi, I'm Léopold!
-<div align="left">
-👨🏻‍💻 I'm currently studying multimedia and internet technologies.<br/>
-🚀 Aim to become a fullstack web developer in the future.<br/>
-🏯 I'm also passionate about South Korea and its entire culture.<br/>
-🎶 K-pop enjoyer!<br/>
+<div>
+  <div align="left">
+  👨🏻‍💻 I'm currently studying multimedia and internet technologies.<br/>
+  🚀 Aim to become a fullstack web developer in the future.<br/>
+  🏯 I'm also passionate about South Korea and its entire culture.<br/>
+  🎶 K-pop enjoyer!<br/>
+  </div>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=OHNIMUS-Leopold&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
 </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=OHNIMUS-Leopold&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
+
 <br/>
 
 # 💻 Tech Stack:
