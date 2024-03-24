@@ -6,10 +6,11 @@
     🏯 I'm also passionate about South Korea and its entire culture.<br/>
     🎶 K-pop enjoyer!<br/>
   </div>
-  <div style="flex: 1; text-align: right;">
+  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=OHNIMUS-Leopold&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
   </div>
 </div>
+
 
 <br/>
 
